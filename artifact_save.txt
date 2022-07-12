@@ -1,0 +1,10 @@
+Circlet
+CD
+CR
+3.9
+ER%
+12.3
+ATK%
+5.8
+HP
+15.7
